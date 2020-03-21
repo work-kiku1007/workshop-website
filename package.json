@@ -1,0 +1,27 @@
+{
+  "name": "workshop-website",
+  "version": "1.0.0",
+  "description": "workshop-website",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/work-kiku1007/workshop-website.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "website"
+  ],
+  "author": "karmakar sourov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/work-kiku1007/workshop-website/issues"
+  },
+  "homepage": "https://github.com/work-kiku1007/workshop-website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
